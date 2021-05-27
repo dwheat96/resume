@@ -1,0 +1,13 @@
+
+h5 {
+    text-align: center;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    background: transparent;
+    width: 100%;
+    border: none;
+    border-top: solid 1px #aaa;
+}
