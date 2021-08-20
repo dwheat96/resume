@@ -1,2 +1,2 @@
 # resume
-my resume in html bc google docs sucks DICK
+my resume in html bc google docs sucks
