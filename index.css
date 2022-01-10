@@ -15,6 +15,7 @@ hr {
     border-top: solid 1px #aaa;
 }
 
-.col {
+.col, ul, li {
     text-align: center;
-}
+    list-style-type: none;
+} 
